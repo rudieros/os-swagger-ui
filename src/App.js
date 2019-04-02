@@ -12,7 +12,7 @@ class App extends Component {
         <LoginContainer />
         <SwaggerUI
             requestInterceptor={window.requestInterceptor}
-            url={'http://localhost:8000/swagger/swagger.json'}
+            url={'/swagger/swagger.json'}
         />
       </div>
     );

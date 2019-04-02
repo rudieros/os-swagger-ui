@@ -1,0 +1,13 @@
+{
+   "index": "index.html",
+   "region": "us-east-1",
+   "uploadDir": "./build",
+   "prefix": "",
+   "exclude": [],
+   "corsConfiguration": [],
+   "enableCloudfront": false,
+   "retries": 20,
+   "error": "index.html",
+   "domain": "os-swagger-ui",
+   "configFile": ".s3-website.json"
+}
